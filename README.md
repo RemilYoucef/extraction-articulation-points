@@ -1,2 +1,1 @@
-# Extractiono-Articulation-Points
 
